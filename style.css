@@ -1,7 +1,4 @@
-<<<<<<< HEAD
-/* ==========================================
-   GLOBAL STYLES & VARIABLES
-   ========================================== */
+
 
 :root {
     /* Color Palette */
@@ -4126,4 +4123,4 @@ input, textarea, select {
         padding: 0 clamp(0.75rem, 3vw, 1rem);
     }
 }
->>>>>>> 3552a49ce339cf11ddb5c15b1c177319f8ce8541
+
